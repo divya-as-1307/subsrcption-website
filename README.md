@@ -7,7 +7,7 @@ Technologies Used:
 HTML
 CSS
 
-You can visit the subcription website [link]
+You can visit the subcription website [https://divya-as-1307.github.io/subsrcption-website/]
 
 
 Thankyou for visiting my webssite!!
